@@ -1,0 +1,6 @@
+The open() function opens the file named 'example.txt' in read mode ('r').
+We can perform operations like reading the file's contents or iterating over its lines.
+Appending new data!
+After writing data to the file, the script reopens "myfile.txt" in read mode to access its contents 
+Using the read() method, the script reads the entire content of the file into the variable 
+the script appends data 
